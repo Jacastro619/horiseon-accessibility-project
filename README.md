@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://jacastro619.github.io/horiseon-accessibility-project/#social-media-marketing)
+[Visit the Deployed Site](https://jacastro619.github.io/horiseon-accessibility-project/)
 
 The purpose of this project was to refactor existing code to make it more accessible and adhere to the DRY (Don't Repeat Yourself) principle. There have been changes to tags, additions of 'alt' attributes in images to enhance accessibility, and a restructuring of the CSS stylesheet to better organize the code and reduce redundancy. It is in the best interest to adhere to accessibility standards, not only because it is inclusive but also because the exposure to one's website will be enhanced, as websites that follow accessibility standards are more likely to be visited. 
 
