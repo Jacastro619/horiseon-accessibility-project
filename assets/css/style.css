@@ -15,7 +15,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+header h1 { /*changed from class to element select to select header*/
     display: inline-block;
     font-size: 48px;
 }
@@ -74,7 +74,7 @@ p {
     margin-left: 20px;
 }
 
-aside {
+aside { /*changed from class to element select to select aside*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -85,23 +85,23 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost { /*Changed classes to one line that share the same properties*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 { /*Changed classes to one line that share the same properties*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img, .benefit-brand img, .benefit-cost img { /*Changed classes to one line that share the same properties*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing { /*Changed classes to one line that share the same properties*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,16 +110,16 @@ aside {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img { /*Changed classes to one line that share the same properties*/
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 { /*Changed classes to one line that share the same properties*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-footer {
+footer { /*changed from class to element select to select footer*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
